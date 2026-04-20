@@ -11,7 +11,7 @@
 
 ### Full-Stack Engineer · AI/ML · Web3 · Open to Full-Time Roles
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-virid-two.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v2-phi-tan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvardhan-khanduja07/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashhh0602)
 
@@ -103,7 +103,7 @@ I build things end-to-end — from smart contracts and MEV bots to AI-powered ap
 
 I'm actively looking for full-time roles in **full-stack engineering**, **AI/ML**, or **Web3 development**.
 
-📬 **[LinkedIn](https://www.linkedin.com/in/yashvardhan-khanduja07/)** · **[Portfolio](https://3d-portfolio-virid-two.vercel.app)** · **[GitHub](https://github.com/Yashhh0602)**
+📬 **[LinkedIn](https://www.linkedin.com/in/yashvardhan-khanduja07/)** · **[Portfolio](https://portfolio-v2-phi-tan.vercel.app/)** · **[GitHub](https://github.com/Yashhh0602)**
 
 ---
 
