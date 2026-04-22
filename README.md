@@ -24,7 +24,7 @@
 
 ```yaml
 name:         Yashvardhan Khanduja
-education:    B.Tech CSE — Manipal Institute of Technology, Bengaluru (Jul 2025)
+education:    B.Tech CSE — Manipal Institute of Technology, Bengaluru (Jan 2026)
 location:     Bangalore, India
 experience:
   - Quantum & Systems Engineer Intern @ DRDO, Ministry of Defence
