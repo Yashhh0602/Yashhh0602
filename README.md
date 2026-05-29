@@ -88,6 +88,19 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 
 ---
 
+## `$ ls -la ./projects`
+
+### 🥩 [Mini-Lms](https://github.com/Yashhh0602/mini-lms)
+> A full-stack Learning Management System built with the MERN stack. Users can browse video modules, track completion progress, and resume videos from where they left off.
+
+- Optimistic UI with rollback — UI updates instantly on "Mark as Complete", reverts silently if API fails. No loading spinners, smooth UX.
+- Video resume state — exact timestamp saved on pause, restored when you revisit the module. Both bonus features implemented.
+- Clean separation of concerns — controllers, routes, models all separate. Context API for shared state, 3 MongoDB collections with proper relationships.
+
+`React` `Vite` `Node.js` `Express.js` `Context APi` `MongoDB Atlas` `Docker` `Docker Compose`
+
+---
+
 ### 💬 Distributed Real-Time Messaging Platform
 > Scalable backend supporting 100+ concurrent users with sub-100ms latency, real-time analytics, and role-based access control.
 
