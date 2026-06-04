@@ -48,7 +48,7 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 ## `$ ls -la ./experience`
 
 ### 🔬 Quantum & Systems Engineer Intern — DRDO, Ministry of Defence
-`Apr 2025 – Sep 2025 · Delhi`
+`March 2025 – Sep 2025 · Delhi`
 
 - Engineered GPU-accelerated quantum simulation pipelines using **CUDA-Q**, executing 8–12 qubit circuits across multi-GPU architectures — **40% efficiency gain**
 - Containerized compute environments with **Docker**, enabling reproducible deployments across 12+ heterogeneous systems
