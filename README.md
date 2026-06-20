@@ -109,7 +109,7 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 
 ---
 
-### 💬 Distributed Real-Time Messaging Platform
+### 💬 [Distributed Real-Time Messaging Platform](https://github.com/Yashhh0602/Chat-app)
 > Scalable backend supporting 100+ concurrent users with sub-100ms latency, real-time analytics, and role-based access control.
 
 - REST APIs + WebSocket communication achieving **sub-100ms latency** for 100+ concurrent users
