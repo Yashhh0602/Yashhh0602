@@ -88,7 +88,7 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 
 ---
 
-### 🔥 [BurnTrack](https://burntrack-phi.vercel.app)
+### 🔥 [BurnTrack](https://burntrack-phi.vercel.app/) — [GitHub](https://github.com/Yashhh0602/burntrack)
 > Workout calorie calculator using real MET-based science with a Claude AI coaching tip personalised to your exact exercise, weight, and duration.
 - Next.js 14 App Router with Tailwind CSS — clean dark UI with animated calorie count-up on result reveal
 - Claude Sonnet 4.6 integrated via a secure server-side API route — key never exposed to the client
