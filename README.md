@@ -88,6 +88,14 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 
 ---
 
+### 🔥 [BurnTrack](https://burntrack-phi.vercel.app)
+> Workout calorie calculator using real MET-based science with a Claude AI coaching tip personalised to your exact exercise, weight, and duration.
+- Next.js 14 App Router with Tailwind CSS — clean dark UI with animated calorie count-up on result reveal
+- Claude Sonnet 4.6 integrated via a secure server-side API route — key never exposed to the client
+- MET formula (Calories = MET × weight × duration/60) with accurate values across 8 exercise types
+
+`Next.js` `Tailwind CSS` `Claude AI` `JavaScript` `Vercel`
+
 ## `$ ls -la ./projects`
 
 ### 🥩 [Mini-Lms](https://github.com/Yashhh0602/mini-lms)
@@ -130,7 +138,7 @@ I build across the full stack — distributed backends, real-time pipelines, on-
   "frontend":       ["React", "Next.js", "HTML", "CSS", "wagmi", "viem"],
   "backend":        ["Node.js", "Express", "FastAPI", "Django", "Flask", "GraphQL", "WebSockets"],
   "web3":           ["Solidity", "ethers.js", "wagmi", "viem", "Foundry", "Hardhat", "MEV", "DeFi"],
-  "ai_ml":          ["Ollama", "LLM integration", "Prompt Engineering", "YOLOv8", "OpenCV", "Pandas", "NumPy"],
+  "ai_ml": ["Ollama", "Claude API", "LLM integration", "Prompt Engineering", "RAG", "YOLOv8", "OpenCV", "Pandas", "NumPy"]
   "data":           ["Apache Spark", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Power BI"],
   "cloud_devops":   ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "CI/CD", "GitHub Actions", "CUDA-Q"],
   "cybersecurity":  ["Wireshark", "Scapy", "Kali Linux", "OWASP", "Snort", "Metasploit"]
