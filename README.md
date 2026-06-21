@@ -120,6 +120,14 @@ I build across the full stack — distributed backends, real-time pipelines, on-
 
 ---
 
+### 🛍️ [Shopify Custom Section — Featured Quick View](https://github.com/Yashhh0602/shopify-custom-sections)
+> Production-ready custom Shopify Liquid section built from scratch featuring a product grid with hover animations and Quick View modal.
+- Responsive 4-column product grid with dynamic New/Sale badge system based on price and product date
+- Quick View modal with product image, title, price, description and CTA — slides in with CSS animation
+- Separate CSS asset file following Shopify theme architecture best practices
+
+`Shopify Liquid` `CSS Grid` `Vanilla JS` `Shopify Theme Dev`
+
 ### 🚗 Autonomous Traffic Monitoring Dashboard
 > Real-time object detection and tracking with 95% accuracy across multi-object traffic scenarios.
 
