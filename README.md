@@ -87,7 +87,7 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 ---
 
-### 🏢 [Employee Management System](https://github.com/Yashhh0602/Employee-Management-System) · [Live](https://employee-management-system-silk-omega.vercel.app/login)
+### 🏢 [Employee Management System](https://github.com/Yashhh0602/Employee-Management-System)
 > HR backend where the hard parts are access control and data integrity.
 
 - Field level RBAC that blocks salary tampering
