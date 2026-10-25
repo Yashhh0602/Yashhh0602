@@ -77,11 +77,12 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 ---
 
-### ⚡ [CodeVector](https://github.com/Yashhh0602/codevector)
-> FastAPI backend with cursor based pagination over a 200k+ row PostgreSQL dataset, deployed on AWS with Terraform.
+### ⚡ [CodeVector](https://github.com/Yashhh0602/codevector) · [Live demo](https://codevector-2.onrender.com)
+> FastAPI backend with cursor based pagination over a 200k+ row PostgreSQL dataset, with AWS infrastructure in Terraform.
 
 - Composite index and opaque cursor tokens for stable, fast pagination
 - Migrated from Render/Neon to **AWS ECS Fargate, RDS, ALB, IAM and CloudWatch**, all defined in **Terraform**
+- Torn down after validation to avoid cost. Live demo runs on Render (first load may take ~30s)
 
 `Python` `FastAPI` `PostgreSQL` `AWS` `Terraform` `Docker`
 
