@@ -66,7 +66,7 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 ## `$ ls -la ./projects`
 
-### 🤖 [Agentic Research Assistant](ARA_REPO_LINK)
+### 🤖 [Agentic Research Assistant](https://github.com/Yashhh0602/agentic-research-amd-scaffold)
 > 4 agent RAG pipeline built for the AMD AI DevMaster Hackathon.
 
 - Retrieval, planning, tool execution and synthesis agents with dependency aware concurrent scheduling
