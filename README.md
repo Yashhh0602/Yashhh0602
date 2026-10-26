@@ -66,7 +66,7 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 ## `$ ls -la ./projects`
 
-### 🤖 [Agentic Research Assistant](https://github.com/Yashhh0602/agentic-research-amd-scaffold)
+### 🤖 [Agentic Research Assistant](https://github.com/Yashhh0602/agentic-research-assistant)
 > 4 agent RAG pipeline built for the AMD AI DevMaster Hackathon.
 
 - Retrieval, planning, tool execution and synthesis agents with dependency aware concurrent scheduling
@@ -99,7 +99,7 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 ---
 
-### 🧠 [MindVault](https://github.com/Yashhh0602/Minvault-AI)
+### 🧠 [MindVault](https://github.com/Yashhh0602/Mindvault-AI)
 > Self hosted AI knowledge base with semantic search, auto summarization and tagging.
 
 - 5 Docker services: Next.js, FastAPI, PostgreSQL with pgvector, Redis, Ollama for local LLM inference
