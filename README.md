@@ -132,7 +132,7 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 | Project | What it is | Stack |
 |---|---|---|
 | [AI Dungeon Master](https://github.com/Yashhh0602/AI-Dungeon-Master) | RPG engine where a local LLM narrates and returns structured state deltas, sub 2s responses | FastAPI, React, TypeScript, Ollama, SQLite |
-| [Real Time Messaging Platform](https://github.com/Yashhh0602/Chat-app) | WebSocket messaging backend with JWT auth and RBAC | Node.js, Express, Socket.IO, MongoDB |
+| [Chat App](https://github.com/Yashhh0602/Chat-app) | One to one real time chat with Socket.IO and JWT cookie auth | Node.js, Express, Socket.IO, MongoDB |
 | [MERN Learning Platform](https://github.com/Yashhh0602/mern-learning-platform) | Video course platform with optimistic UI rollback and resume from timestamp | React, Node.js, Express, MongoDB, Docker |
 | [BurnTrack](https://github.com/Yashhh0602/burntrack) · [Live](https://burntrack-phi.vercel.app/) | MET based calorie calculator with server side Claude API coaching tips | Next.js, Tailwind, Vercel |
 | Autonomous Traffic Monitoring | Multi object detection and tracking for traffic scenes | YOLOv8, DeepSort, OpenCV, Python |
