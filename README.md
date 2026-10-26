@@ -11,7 +11,7 @@
 
 ### Backend Engineer · Production AI Systems · Open to Full Time Roles
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v2-phi-tan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yash-khanduja.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvardhan-khanduja07/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vardhan.yash265@gmail.com)
 
@@ -30,7 +30,7 @@ stack:       Python, Node.js, FastAPI, Express, PostgreSQL, AWS, Docker
 experience:
   - Quantum & Systems Engineer Intern @ DRDO, Ministry of Defence
   - Cybersecurity Intern @ Academor
-  - Freelance: Lead Management System for Biotech Client
+  - Freelance: Lead Management System for a biotech group
 achievements:
   - 🥇 1st place / 120 participants, University Crypto Hunt (cryptography CTF)
   - 🛡️ TryHackMe ADEPT rank, top 15% globally
@@ -172,4 +172,4 @@ I build backends that hold up: multi tenant access control, paginated APIs over 
 
 Looking for full time **backend** and **AI engineering** roles.
 
-📬 **[vardhan.yash265@gmail.com](mailto:vardhan.yash265@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/yashvardhan-khanduja07/)** · **[Portfolio](https://portfolio-v2-phi-tan.vercel.app/)**
+📬 **[vardhan.yash265@gmail.com](mailto:vardhan.yash265@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/yashvardhan-khanduja07/)** · **[Portfolio](https://yash-khanduja.vercel.app)**
